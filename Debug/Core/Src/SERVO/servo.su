@@ -1,0 +1,4 @@
+../Core/Src/SERVO/servo.c:33:6:ServoxInit	56	static
+../Core/Src/SERVO/servo.c:135:6:ServoSetPulse	16	static
+../Core/Src/SERVO/servo.c:152:6:ServoInitAngle	24	static
+../Core/Src/SERVO/servo.c:168:6:ServoSetAngle	16	static

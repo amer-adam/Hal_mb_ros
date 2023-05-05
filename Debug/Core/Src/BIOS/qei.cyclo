@@ -1,0 +1,8 @@
+qei.c:41:6:QEIInit	9
+qei.c:120:6:QEIPrintValueStore	1
+qei.c:143:6:QEIWrite	7
+qei.c:185:6:QEIReset	7
+qei.c:227:6:QEISwap	19
+qei.c:299:6:QEIDelay	2
+qei.c:319:9:QEIRead	7
+qei.c:363:10:QEIReadRaw	7

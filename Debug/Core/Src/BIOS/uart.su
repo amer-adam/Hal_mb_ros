@@ -1,0 +1,2 @@
+../Core/Src/BIOS/uart.c:28:6:UARTInit	32	static
+../Core/Src/BIOS/uart.c:87:6:UARTPrintString	16	static

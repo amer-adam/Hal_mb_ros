@@ -1,0 +1,6 @@
+../Core/Src/PSx_Interface/PSx_Interface.c:25:6:PSxBTReceiveData	24	static
+../Core/Src/PSx_Interface/PSx_Interface.c:40:6:PSxConnect	16	static
+../Core/Src/PSx_Interface/PSx_Interface.c:53:6:PSxInit	16	static
+../Core/Src/PSx_Interface/PSx_Interface.c:66:6:PSx_HandlerUART	64	static
+../Core/Src/PSx_Interface/PSx_Interface.c:91:6:PSx_HandlerI2C	16	static
+../Core/Src/PSx_Interface/PSx_Interface.c:113:6:PSxBTGetXY	16	static

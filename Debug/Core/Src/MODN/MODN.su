@@ -1,0 +1,4 @@
+../Core/Src/MODN/MODN.c:32:6:MODNRobotBaseInit	24	static
+../Core/Src/MODN/MODN.c:39:6:MODNRobotVelInit	24	static
+../Core/Src/MODN/MODN.c:46:6:MODNWheelVelInit	24	static
+../Core/Src/MODN/MODN.c:54:6:MODN	40	static

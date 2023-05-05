@@ -1,0 +1,19 @@
+ring_buffer.h:72:20:void rb_init(ring_buffer*, uint16_t, uint8_t*)	1
+ring_buffer.h:83:24:uint16_t rb_full_count(ring_buffer*)	2
+ring_buffer.h:95:19:int rb_is_full(ring_buffer*)	4
+ring_buffer.h:113:20:void rb_insert(ring_buffer*, uint8_t)	2
+ring_buffer.h:122:23:uint8_t rb_remove(ring_buffer*)	2
+ring_buffer.h:166:19:int rb_push_insert(ring_buffer*, uint8_t)	2
+ring_buffer.h:179:21:void rb_reset(ring_buffer*)	1
+hardwareserial.cpp:10:6:void HardwareSerial::begin(uint32_t)	4
+hardwareserial.cpp:21:10:uint32_t HardwareSerial::available()	4
+hardwareserial.cpp:34:9:uint8_t HardwareSerial::read()	5
+hardwareserial.cpp:48:6:void UU_PutChar(UART_HandleTypeDef*, uint8_t)	2
+hardwareserial.cpp:54:10:uint16_t USART_ReceiveData(UART_HandleTypeDef*)	1
+hardwareserial.cpp:60:10:uint32_t HardwareSerial::write(uint8_t)	1
+hardwareserial.cpp:70:6:void HardwareSerial::flush()	4
+hardwareserial.cpp:80:6:)	1
+hardwareserial.cpp:91:6:void HardwareSerial::putstr(const char*)	1
+hardwareserial.cpp:102:6:void USART2_IRQHandler()	1
+hardwareserial.cpp:112:6:void USART3_IRQHandler()	1
+hardwareserial.cpp:122:6:void UART4_IRQHandler()	1

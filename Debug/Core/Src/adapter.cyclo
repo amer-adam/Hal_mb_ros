@@ -1,0 +1,6 @@
+adapter.c:64:6:Initialize	1
+adapter.c:166:6:CAN1_RX0_IRQHandler	1
+adapter.c:173:6:CAN2_RX1_IRQHandler	1
+adapter.c:180:6:CAN_PROCESS	4
+adapter.c:198:6:HAL_CAN_RxFifo0MsgPendingCallback	8
+adapter.c:254:6:HAL_CAN_RxFifo1MsgPendingCallback	8

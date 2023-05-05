@@ -1,0 +1,4 @@
+../Core/Src/ADC/adc.c:36:6:ADC_DMAxInit	40	static
+../Core/Src/ADC/adc.c:126:6:ADC_Channel_Config	48	static
+../Core/Src/ADC/adc.c:153:6:DMA2_Stream0_IRQHandler	8	static
+../Core/Src/ADC/adc.c:170:6:DMA2_Stream1_IRQHandler	8	static

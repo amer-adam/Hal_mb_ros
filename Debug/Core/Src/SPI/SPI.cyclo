@@ -1,0 +1,7 @@
+SPI.c:29:6:SPIxInit	5
+SPI.c:83:6:SPITransmit	1
+SPI.c:99:6:SPIReceive	1
+SPI.c:116:6:SPI_Transmit_Receive	1
+SPI.c:128:6:SPI1_IRQHandler	1
+SPI.c:143:6:SPI2_IRQHandler	1
+SPI.c:158:6:SPI3_IRQHandler	1

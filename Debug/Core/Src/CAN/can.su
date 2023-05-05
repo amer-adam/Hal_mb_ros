@@ -1,0 +1,2 @@
+../Core/Src/CAN/can.c:48:6:CANxInit	64	static
+../Core/Src/CAN/can.c:136:10:CAN_TxMsg	72	static

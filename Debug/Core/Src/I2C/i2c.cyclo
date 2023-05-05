@@ -1,0 +1,9 @@
+i2c.c:40:6:I2CxInit	4
+i2c.c:106:19:I2CSend	2
+i2c.c:135:19:I2CSendV	2
+i2c.c:164:6:I2C1_EV_IRQHandler	1
+i2c.c:178:6:I2C1_ER_IRQHandler	1
+i2c.c:192:6:I2C2_EV_IRQHandler	1
+i2c.c:208:6:I2C2_ER_IRQHandler	1
+i2c.c:223:6:I2C3_EV_IRQHandler	1
+i2c.c:239:6:I2C3_ER_IRQHandler	1
